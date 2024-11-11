@@ -1,0 +1,65 @@
+[
+			{
+				"material": { "ambient": [0.1, 0.1, 0.1], "diffuse": [0.6, 0.6, 0.6], "specular": [0.3, 0.3, 0.3], "n": 11, "alpha": 0.9, "texture": "https://raw.githubusercontent.com/Etoragon/public_resources/e4d428efacd2b42ad708437d521d5e24b01929f4/anthony.jpg" },
+				"vertices": [[0.0, 0.4, 0.45], [0.1, 0.6, 0.45], [0.2, 0.4, 0.45]],
+				"normals": [[0, 0, -1], [0, 0, -1], [0, 0, -1]],
+				"uvs": [[0, 0], [0.5, 1], [1, 0]],
+				"triangles": [[0, 1, 2]]
+			},
+			{
+				"material": { "ambient": [0.1, 0.1, 0.1], "diffuse": [0.6, 0.6, 0.6], "specular": [0.3, 0.3, 0.3], "n": 15, "alpha": 1.0, "texture": "https://raw.githubusercontent.com/Etoragon/public_resources/e4d428efacd2b42ad708437d521d5e24b01929f4/flea.jpg" },
+				"vertices": [[0.3, 0.4, 0.45], [0.4, 0.6, 0.45], [0.5, 0.4, 0.45]],
+				"normals": [[0, 0, -1], [0, 0, -1], [0, 0, -1]],
+				"uvs": [[0, 0], [0.5, 1], [1, 0]],
+				"triangles": [[0, 1, 2]]
+			},
+			{
+				"material": { "ambient": [0.1, 0.1, 0.1], "diffuse": [0.6, 0.6, 0.6], "specular": [0.3, 0.3, 0.3], "n": 15, "alpha": 1.0, "texture": "https://raw.githubusercontent.com/Etoragon/public_resources/e4d428efacd2b42ad708437d521d5e24b01929f4/shad.jpg" },
+				"vertices": [[0.6, 0.4, 0.45], [0.7, 0.6, 0.45], [0.8, 0.4, 0.45]],
+				"normals": [[0, 0, -1], [0, 0, -1], [0, 0, -1]],
+				"uvs": [[0, 0], [0.5, 1], [1, 0]],
+				"triangles": [[0, 1, 2]]
+			},
+			{
+				"material": { "ambient": [0.1, 0.1, 0.1], "diffuse": [0.6, 0.6, 0.6], "specular": [0.3, 0.3, 0.3], "n": 15, "alpha": 1.0, "texture": "https://raw.githubusercontent.com/Etoragon/public_resources/e4d428efacd2b42ad708437d521d5e24b01929f4/john.png" },
+				"vertices": [[0.9, 0.4, 0.45], [1.0, 0.6, 0.45], [1.1, 0.4, 0.45]],
+				"normals": [[0, 0, -1], [0, 0, -1], [0, 0, -1]],
+				"uvs": [[0, 0], [0.5, 1], [1, 0]],
+				"triangles": [[0, 1, 2]]
+			},
+			{
+				"material": { "ambient": [0.1, 0.1, 0.1], "diffuse": [0.6, 0.6, 0.6], "specular": [0.3, 0.3, 0.3], "n": 11, "alpha": 0.9, "texture": "https://raw.githubusercontent.com/Etoragon/public_resources/refs/heads/main/mic.png" },
+				"vertices": [[0.0, 0.1, 0.45], [0.1, 0.3, 0.45], [0.2, 0.1, 0.45]],
+				"normals": [[0, 0, -1], [0, 0, -1], [0, 0, -1]],
+				"uvs": [[0, 0], [0.5, 1], [1, 0]],
+				"triangles": [[0, 1, 2]]
+			},
+			{
+				"material": { "ambient": [0.1, 0.1, 0.1], "diffuse": [0.6, 0.6, 0.6], "specular": [0.3, 0.3, 0.3], "n": 15, "alpha": 1.0, "texture": "https://raw.githubusercontent.com/Etoragon/public_resources/refs/heads/main/c7c249ef-9861-4e03-b557-59a9c59d6355.jpg" },
+				"vertices": [[0.3, 0.1, 0.45], [0.4, 0.3, 0.45], [0.5, 0.1, 0.45]],
+				"normals": [[0, 0, -1], [0, 0, -1], [0, 0, -1]],
+				"uvs": [[0, 0], [0.5, 1], [1, 0]],
+				"triangles": [[0, 1, 2]]
+			},
+			{
+				"material": { "ambient": [0.1, 0.1, 0.1], "diffuse": [0.6, 0.6, 0.6], "specular": [0.3, 0.3, 0.3], "n": 15, "alpha": 1.0, "texture": "https://raw.githubusercontent.com/Etoragon/public_resources/refs/heads/main/drums.png" },
+				"vertices": [[0.6, 0.3, 0.45], [0.7, 0.1, 0.45], [0.8, 0.3, 0.45]],
+				"normals": [[0, 0, -1], [0, 0, -1], [0, 0, -1]],
+				"uvs": [[0, 1], [0.5, 0], [1, 1]],
+				"triangles": [[0, 1, 2]]
+			},
+			{
+				"material": { "ambient": [0.1, 0.1, 0.1], "diffuse": [0.0, 0.6, 0.0], "specular": [0.3, 0.3, 0.3], "n": 15, "alpha": 1.0, "texture": "https://raw.githubusercontent.com/Etoragon/public_resources/refs/heads/main/10766395.png" },
+				"vertices": [[0.9, 0.1, 0.45], [1.0, 0.3, 0.45], [1.1, 0.1, 0.45]],
+				"normals": [[0, 0, -1], [0, 0, -1], [0, 0, -1]],
+				"uvs": [[0, 0], [0.5, 1], [1, 0]],
+				"triangles": [[0, 1, 2]]
+			},
+			{
+				"material": { "ambient": [0.1, 0.1, 0.1], "diffuse": [0.6, 0.6, 0.6], "specular": [0.3, 0.3, 0.3], "n": 15, "alpha": 1.0, "texture": "" },
+				"vertices": [[0.4 + Math.sin(currIteration) * (0.5), 1.3 + Math.cos(currIteration + Math.PI) * (0.5), 0.45], [0.5, 1.3, 0.45], [0.6 + Math.sin(currIteration) * (0.5), 1.3 + Math.cos(currIteration + Math.PI) * (0.5), 0.45]],
+				"normals": [[0, 0, -1], [0, 0, -1], [0, 0, -1]],
+				"uvs": [[0, 0], [0.5, 1], [1, 0]],
+				"triangles": [[0, 1, 2]]
+			}
+		]
